@@ -2,7 +2,7 @@
 In this project, I have analysed tweets of 45th president of USA, Donald Trump.  The sentiment of tweets is divided into three parts. 
        
         1. Positive, 
-        2. Negative 
+        2. Negative, 
         3. Neutral.
 
 Here, I have used Google colab (Jupyter notebook is also works).
