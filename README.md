@@ -28,7 +28,7 @@ Here, I have used Google colab (Jupyter notebook is also works).
   - Matplotlib is a basic library that enables many other libraries to run and plot on its base including seaborn or wordcloud.
   
   
-## Steps:
+## Steps for Developer Account
 
 First, I generated Twitter API credentials (Consumer Key, Consumer Secret, Access Token and Access Token secret).  For this I have created twitter developer account and created new application. 
 1.	Use this link to create developer account. ( https://developer.twitter.com/ ). After applying for developer account, this Screen will be there. If you already have some applications, then it will show list of applications in place of No apps here.
