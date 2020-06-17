@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis
+# Twitter Sentiment Analysis
 In this project, I have analysed tweets of 45th president of USA, Donald Trump.  The sentiment of tweets is divided into three parts. 
        
          Positive, 
