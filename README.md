@@ -33,17 +33,24 @@ Here, I have used Google colab (Jupyter notebook is also works).
 First, I generated Twitter API credentials (Consumer Key, Consumer Secret, Access Token and Access Token secret).  For this I have created twitter developer account and created new application. 
 1.	Use this link to create developer account. ( https://developer.twitter.com/ ). After applying for developer account, this Screen will be there. If you already have some applications, then it will show list of applications in place of No apps here.
 
+
    ![Welcome_Page](https://user-images.githubusercontent.com/60724707/84947571-6bf65c00-b0b8-11ea-8713-df1558c71204.png)
+   
+   
  
 2.	In the next phase you have to add some details of Application. Such as App Name(required), App description(required), Website URL(add github link) , and How app will be used(You can write any thing). No need too fills other details.
 
+
+
    ![Welcome_3](https://user-images.githubusercontent.com/60724707/84947788-d27b7a00-b0b8-11ea-92c9-2521b6de4ee7.png)
+   
    
    ![Welcome_2](https://user-images.githubusercontent.com/60724707/84947809-ddcea580-b0b8-11ea-9cbb-ec524aa702e6.png)
 
 
 3.	After creating App, you will find this screen. For Consumer Api Keys and Access token api go to Keys and tokens.
-    
+   
+   
     ![Welcome_4](https://user-images.githubusercontent.com/60724707/84947833-e7580d80-b0b8-11ea-86ac-47e31837d08d.png)
 
 
@@ -64,7 +71,9 @@ First, I generated Twitter API credentials (Consumer Key, Consumer Secret, Acces
 
 3.  Using TextBlob library, added Subjectivity and Polarity of tweets.
 
+
 ![3_3](https://user-images.githubusercontent.com/60724707/84949992-23d93880-b0bc-11ea-94d6-667512973eed.png)
+
 
 4.  Plotted a wordcloud of size 500*300. 
 
@@ -74,17 +83,21 @@ First, I generated Twitter API credentials (Consumer Key, Consumer Secret, Acces
 
 5.  On the basis of Polarity, tweets are divided into Positive, Negative ane Neutral.
 
+
 ![5_5](https://user-images.githubusercontent.com/60724707/84950528-11abca00-b0bd-11ea-8030-2d62263a4032.png)
 
 
 6.  Positive, Negative and Neutral tweets. 
+
 
 ![6_6](https://user-images.githubusercontent.com/60724707/84951150-04dba600-b0be-11ea-8903-7d7770bf268d.png)
 
 
 7.  Plotted scatter plot of Subjectivity V/S Polarity
 
+
 ![7_7](https://user-images.githubusercontent.com/60724707/84951476-7ae00d00-b0be-11ea-8136-174b3356aa7f.png)
 
 
 ![10_10](https://user-images.githubusercontent.com/60724707/84951786-ecb85680-b0be-11ea-9cb6-46f8bdd75e68.png)
+
